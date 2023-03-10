@@ -6,8 +6,11 @@
   
   **git switch nomDeLaBrancheARecuperer** pour changer de branche et avoir les dossiers
   
-  **git remote** : to see remotes 
-  
-  **git remote add + your_git_remote_url** : to add a new remote branch to your local repository
-  
  ```
+ 
+ #add an other remote repository (to your repository wich already has one):
+ ```
+   **git remote** : to see remotes 
+   **git remote add + your_git_remote_url** : to add a new remote branch to your local repository
+```
+ 
